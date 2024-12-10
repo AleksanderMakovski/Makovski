@@ -1,0 +1,47 @@
+header h1 {
+    border: solid 1px blue;
+    padding: 5%;
+    margin: 10px;
+    border-radius: 500px;
+    width: 40%;
+    background-color: cyan;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightcyan;
+}
+li{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+li a{
+    text-decoration: none;
+    color: darkblue;
+    padding: 10px;
+}
+li a:hover{ /*lingid fookuses*/
+    background-color: dodgerblue;
+}
+footer{
+    text-align: center;
+    /*margin-top: auto;*/
+    background-color: #8380f3;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+section{
+    color: darkblue;
+    border: solid 1px blue;
+    background-color: lightcyan;
+    margin: 1%;
+}
+section h2{
+
+}
